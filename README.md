@@ -8,7 +8,7 @@
 
 # Configuration:
   - Transmitter : Power 5v (pin:2), Ground (pin:9), data GPIO17 (pin:11)
-  - Receiver : Power 5v (pin:4), Ground (pin:6), data GPIO17 (pin:13)
+  - Receiver : Power 5v (pin:4), Ground (pin:6), data GPIO27 (pin:13)
   - LED : Pins (GPIO12(pin:32),Ground(pin:34))
 
 
