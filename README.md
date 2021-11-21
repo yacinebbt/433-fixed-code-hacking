@@ -1,11 +1,11 @@
 # 433-fixed-code-hacking
-# This project is about fixed key (on-off-keying) and rolling jam attaque (which i couldn't do it cause i don't have sufficient money to buy advanced tools)
 # pre-requests:
 # Raspberry-Pi 
 # RTL-SDR (optional - to intercept and analyse the signals)
 # 433Mhz Tx/Rx (basic costs about 5$) 
 # Documentation and time to read
 
+This project is about fixed key (on-off-keying) and rolling jam attaque (which i couldn't do it cause i don't have sufficient money to buy advanced tools)
 
 This project is used to intercept and re-produce the same signal to the target to simulate the function of the original remote key (replay attack).
 It has also an option to bruteforce to try all possible combination of a binary code, \
