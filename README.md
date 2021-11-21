@@ -1,9 +1,17 @@
 # 433-fixed-code-hacking
+
 # pre-requests:
-# Raspberry-Pi 
-# RTL-SDR (optional - to intercept and analyse the signals)
-# 433Mhz Tx/Rx (basic costs about 5$) 
-# Documentation and time to read
+  - Raspberry-Pi 
+  - RTL-SDR (optional - to intercept and analyse the signals)
+  - 433Mhz Tx/Rx (basic costs about 5$) 
+  - Documentation and time to read
+
+# Configuration:
+  - Transmitter : Power 5v (pin:2), Ground (pin:9), data GPIO17 (pin:11)
+  - Receiver : Power 5v (pin:4), Ground (pin:6), data GPIO17 (pin:13)
+  - LED : Pins (GPIO12(pin:32),Ground(pin:34))
+
+
 
 This project is about fixed key (on-off-keying) and rolling jam attaque (which i couldn't do it cause i don't have sufficient money to buy advanced tools)
 
