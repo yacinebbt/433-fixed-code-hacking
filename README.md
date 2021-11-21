@@ -26,5 +26,7 @@ The bruteforce here is used as a jammer, we don't care about what code we sent, 
 so we can try intercepting the key while its jammed for some secondes (as long as takes till we get at least two or three signals)
 
 
+PS: Gmail remote access (Activate Less Secure App Access in your gmail account) otherwise the code may not work => (security risks)! Read more about that, otherwise use a temporary account.
+
 
 here is the youtube video demonstrating how this works !!!
